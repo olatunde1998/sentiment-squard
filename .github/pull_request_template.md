@@ -1,5 +1,5 @@
 ## Issue ticket number and link
-[sentiment-squard-#](https://github.com/olatunde1998/sentiment-squard/issues/{{NO}})
+[sentiment-squard-#](https://github.com/olatunde1998/sentiment-squad/issues/{{NO}})
 
 ## Describe your changes
 
